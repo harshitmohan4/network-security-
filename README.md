@@ -46,6 +46,6 @@ All traffic analysis was performed on **local network traffic only** — capturi
 
 ## 👤 Author
 
-**Harshit**
+**Harshit Mohan**
 MCA – Cybersecurity Specialization | Jain University, Bangalore
 Cybersecurity Internship – Week 2, Task 2
